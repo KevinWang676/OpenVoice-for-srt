@@ -16,3 +16,4 @@ gradio
 langid==1.1.6
 tiktoken==0.4.0
 transformers==4.36.0
+huggingface-hub==0.19.3
